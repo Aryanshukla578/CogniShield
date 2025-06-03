@@ -1,7 +1,6 @@
 # 🧠 CogniShield – AI-Powered Cognitive Cyber Defense Platform
 
-![CogniShield](https://i.imgur.com/xGmmPfW.png)
-
+![CogniShield]
 > A **real-time cognitive cybersecurity system** that uses **EEG signals** to verify user intent, detect stress, and prevent unauthorized actions using cutting-edge AI & ML.
 
 ---
