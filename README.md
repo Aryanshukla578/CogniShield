@@ -100,30 +100,6 @@ Test the app with the sample file:
 
 ---
 
-## 📸 Screenshots
-
-<img src="https://i.imgur.com/2qSxyDO.png" width="700"/>
-<img src="https://i.imgur.com/HRs0B3W.png" width="700"/>
-
----
-
-## 🤖 Lovable Deployment Prompt (for https://lovable.dev/projects/4dd196d1...)
-
-Use the following prompt for a proper **Lovable.dev** deployment:
-
-Build a Streamlit app that securely analyzes EEG CSV data to detect user intent and stress for authentication. The app should:
-
-Accept a CSV upload (timestamp, channel_1, channel_2, channel_3)
-
-Display signal charts
-
-Show mock predictions: intent verified ✅, stress level 🟢 normal
-
-Be styled with a clear title and section headers
-Project name: CogniShield – Cognitive Cyber Defense Platform
-
----
-
 ## 🧑‍💻 Run Locally
 
 ```bash
